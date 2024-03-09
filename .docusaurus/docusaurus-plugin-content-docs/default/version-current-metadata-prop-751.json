@@ -32,7 +32,7 @@
       },
       {
         "type": "link",
-        "label": "Investmentfi Roadmap 🗺️✨",
+        "label": "Investfi Roadmap 🗺️✨",
         "href": "/docs/Roadmap",
         "docId": "Roadmap",
         "unlisted": false
@@ -43,10 +43,23 @@
         "href": "/docs/LBP on fjordfoundry",
         "docId": "LBP on fjordfoundry",
         "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Investfi FAQs 📘",
+        "href": "/docs/FAQ",
+        "docId": "FAQ",
+        "unlisted": false
       }
     ]
   },
   "docs": {
+    "FAQ": {
+      "id": "FAQ",
+      "title": "Investfi FAQs 📘",
+      "description": "When can I deposit/withdraw from my Investfi account? 💰",
+      "sidebar": "docsSidebar"
+    },
     "Introduction": {
       "id": "Introduction",
       "title": "Introduction 🌟",
@@ -67,14 +80,14 @@
     },
     "Roadmap": {
       "id": "Roadmap",
-      "title": "Investmentfi Roadmap 🗺️✨",
+      "title": "Investfi Roadmap 🗺️✨",
       "description": "Navigating Our Journey Towards Innovation 🚀",
       "sidebar": "docsSidebar"
     },
     "Tokenomics": {
       "id": "Tokenomics",
       "title": "Tokenomics & Utility 💎",
-      "description": "The INVF token stands as the cornerstone of the Investmentfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.",
+      "description": "The INVF token stands as the cornerstone of the Investfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.",
       "sidebar": "docsSidebar"
     }
   }

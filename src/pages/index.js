@@ -18,7 +18,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           
-            The MEME MAFIA Documentation
+            InvestFi Documentation
           
         </div>
       </div>

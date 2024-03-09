@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DEFIMATRIX',
-  tagline: 'Intent Driven DEFI',
+  title: 'InvestFi',
+  tagline: 'Redefining Digital Finance',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.defimatrix.io',
+  url: 'https://docs.investfi.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'DEFIMATRIX', // Usually your GitHub org/user name.
-  projectName: 'DEFIMATRIX', // Usually your repo name.
+  organizationName: 'InvestFi', // Usually your GitHub org/user name.
+  projectName: 'InvestFi', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DEFIMATRIX',
+        title: 'InvestFi',
        
         logo: {
-          href: 'https://defimatrix.io',
+          href: 'https://investfi.io',
           alt: 'DEFIMATRIX Logo',
           src: 'img/logo.png',
         },
@@ -82,12 +82,12 @@ const config = {
           },
           
           {
-            href: 'https://t.me/DeFiMatrixOfficialChat',
+            href: 'https://t.me/investfi_Official',
             label: 'Telegram',
             position: 'right',
           },
           {
-            href: 'https://twitter.com/DeFiMatrix_',
+            href: 'https://twitter.com/Investfi_',
             label: 'Twitter',
             position: 'right',
           },
@@ -97,7 +97,7 @@ const config = {
       footer: {
         style: 'dark',
        
-        copyright: `Copyright © ${new Date().getFullYear()} DefiMatrix.`,
+        copyright: `Copyright © ${new Date().getFullYear()} InvestFi.`,
       },
       prism: {
         theme: prismThemes.github,

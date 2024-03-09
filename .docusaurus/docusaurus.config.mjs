@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "DEFIMATRIX",
-  "tagline": "Intent Driven DEFI",
+  "title": "InvestFi",
+  "tagline": "Redefining Digital Finance",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.defimatrix.io",
+  "url": "https://docs.investfi.io",
   "baseUrl": "/",
-  "organizationName": "DEFIMATRIX",
-  "projectName": "DEFIMATRIX",
+  "organizationName": "InvestFi",
+  "projectName": "InvestFi",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -40,9 +40,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "DEFIMATRIX",
+      "title": "InvestFi",
       "logo": {
-        "href": "https://defimatrix.io",
+        "href": "https://investfi.io",
         "alt": "DEFIMATRIX Logo",
         "src": "img/logo.png"
       },
@@ -54,12 +54,12 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://t.me/DeFiMatrixOfficialChat",
+          "href": "https://t.me/investfi_Official",
           "label": "Telegram",
           "position": "right"
         },
         {
-          "href": "https://twitter.com/DeFiMatrix_",
+          "href": "https://twitter.com/Investfi_",
           "label": "Twitter",
           "position": "right"
         }
@@ -68,7 +68,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2024 DefiMatrix.",
+      "copyright": "Copyright © 2024 InvestFi.",
       "links": []
     },
     "prism": {

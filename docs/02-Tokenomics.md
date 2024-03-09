@@ -1,6 +1,6 @@
 # Tokenomics & Utility 💎
 
-The INVF token stands as the cornerstone of the Investmentfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.
+The INVF token stands as the cornerstone of the Investfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.
 
 # INVF Token Overview 🔍
 - **Total Token Supply**: 1,000,000,000 Tokens 📈
@@ -19,7 +19,7 @@ The INVF token stands as the cornerstone of the Investmentfi ecosystem, meticulo
 
 - **Platform Operations**: 15% (150,000,000 INVF Tokens) 💼
 
-    Reserved for maintenance, development, and operational expenses, supporting the smooth functionality of the Investmentfi platform. 🛠️
+    Reserved for maintenance, development, and operational expenses, supporting the smooth functionality of the Investfi platform. 🛠️
 
 - **Liquidity Pool**: 10% (100,000,000 INVF Tokens) 💧
 

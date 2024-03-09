@@ -13,10 +13,30 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/buddhika/Documents/OnchainMafia/DefiMatrix/docs/sidebars.js",
-          "contentPath": "/Users/buddhika/Documents/OnchainMafia/DefiMatrix/docs/docs",
-          "contentPathLocalized": "/Users/buddhika/Documents/OnchainMafia/DefiMatrix/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/buddhika/Documents/OnchainMafia/investFI/docs/sidebars.js",
+          "contentPath": "/Users/buddhika/Documents/OnchainMafia/investFI/docs/docs",
+          "contentPathLocalized": "/Users/buddhika/Documents/OnchainMafia/investFI/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
+            {
+              "id": "FAQ",
+              "title": "Investfi FAQs 📘",
+              "description": "When can I deposit/withdraw from my Investfi account? 💰",
+              "source": "@site/docs/06-FAQ.md",
+              "sourceDirName": ".",
+              "slug": "/FAQ",
+              "permalink": "/docs/FAQ",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "docsSidebar",
+              "previous": {
+                "title": "Investifi's LBP on Fjord Foundry 🚀",
+                "permalink": "/docs/LBP on fjordfoundry"
+              }
+            },
             {
               "id": "Introduction",
               "title": "Introduction 🌟",
@@ -57,7 +77,7 @@
                 "permalink": "/docs/Tokenomics"
               },
               "next": {
-                "title": "Investmentfi Roadmap 🗺️✨",
+                "title": "Investfi Roadmap 🗺️✨",
                 "permalink": "/docs/Roadmap"
               }
             },
@@ -77,13 +97,17 @@
               "frontMatter": {},
               "sidebar": "docsSidebar",
               "previous": {
-                "title": "Investmentfi Roadmap 🗺️✨",
+                "title": "Investfi Roadmap 🗺️✨",
                 "permalink": "/docs/Roadmap"
+              },
+              "next": {
+                "title": "Investfi FAQs 📘",
+                "permalink": "/docs/FAQ"
               }
             },
             {
               "id": "Roadmap",
-              "title": "Investmentfi Roadmap 🗺️✨",
+              "title": "Investfi Roadmap 🗺️✨",
               "description": "Navigating Our Journey Towards Innovation 🚀",
               "source": "@site/docs/04-Roadmap.md",
               "sourceDirName": ".",
@@ -108,7 +132,7 @@
             {
               "id": "Tokenomics",
               "title": "Tokenomics & Utility 💎",
-              "description": "The INVF token stands as the cornerstone of the Investmentfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.",
+              "description": "The INVF token stands as the cornerstone of the Investfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.",
               "source": "@site/docs/02-Tokenomics.md",
               "sourceDirName": ".",
               "slug": "/Tokenomics",
@@ -152,6 +176,10 @@
               {
                 "type": "doc",
                 "id": "LBP on fjordfoundry"
+              },
+              {
+                "type": "doc",
+                "id": "FAQ"
               }
             ]
           }

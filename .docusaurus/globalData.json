@@ -11,6 +11,11 @@
           "mainDocId": "Introduction",
           "docs": [
             {
+              "id": "FAQ",
+              "path": "/docs/FAQ",
+              "sidebar": "docsSidebar"
+            },
+            {
               "id": "Introduction",
               "path": "/docs/Introduction",
               "sidebar": "docsSidebar"

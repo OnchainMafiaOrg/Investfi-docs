@@ -14,7 +14,11 @@
   "frontMatter": {},
   "sidebar": "docsSidebar",
   "previous": {
-    "title": "Investmentfi Roadmap 🗺️✨",
+    "title": "Investfi Roadmap 🗺️✨",
     "permalink": "/docs/Roadmap"
+  },
+  "next": {
+    "title": "Investfi FAQs 📘",
+    "permalink": "/docs/FAQ"
   }
 }
