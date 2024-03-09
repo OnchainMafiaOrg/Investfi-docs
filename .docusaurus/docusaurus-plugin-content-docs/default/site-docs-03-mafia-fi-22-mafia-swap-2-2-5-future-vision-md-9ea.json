@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "title": "Future Vision",
+  "description": "The launch of Meme Mafia Swap marks the beginning of a new era in the MemeVerse, where the limitations of traditional trading platforms are left behind. As the Meme Mafia community embarks on this journey, the platform is poised to become not just a tool for trading but a cornerstone of the meme cryptocurrency ecosystem, driving innovation, inclusivity, and growth.",
+  "source": "@site/docs/03-Mafia-Fi/22-Mafia Swap/2.2.5-Future Vision.md",
+  "sourceDirName": "03-Mafia-Fi/22-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.5-Future Vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Mafia-Fi/22-Mafia Swap/2.2.5-Future Vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Security and Trust",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.4-Security and Trust"
+  },
+  "next": {
+    "title": "Cross-Token Staking Mechanism",
+    "permalink": "/docs/Mafia-Fi/Staking/2.3.1-Cross-Token Staking"
+  }
+}

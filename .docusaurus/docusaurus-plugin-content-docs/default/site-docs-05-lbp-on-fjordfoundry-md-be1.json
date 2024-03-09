@@ -1,0 +1,20 @@
+{
+  "id": "LBP on fjordfoundry",
+  "title": "Investifi's LBP on Fjord Foundry 🚀",
+  "description": "Introduction",
+  "source": "@site/docs/05-LBP on fjordfoundry.md",
+  "sourceDirName": ".",
+  "slug": "/LBP on fjordfoundry",
+  "permalink": "/docs/LBP on fjordfoundry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Investmentfi Roadmap 🗺️✨",
+    "permalink": "/docs/Roadmap"
+  }
+}

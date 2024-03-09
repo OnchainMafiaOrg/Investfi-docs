@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Staking/2.3.1Cross-Token Staking",
+  "title": "Cross-Token Staking Mechanism",
+  "description": "UThe MEME Mafia platform will introduce a cross-token staking mechanism allowing users to stake various tokens from the ecosystem, such as \"Turtle Papa\" and others, to earn $MEMA tokens. This approach involves developing a flexible and secure staking smart contract capable of handling multiple types of tokens as inputs for staking and managing the distribution of $MEMA as rewards.",
+  "source": "@site/docs/02-Mafia-Fi/23-Staking/2.3.1Cross-Token Staking.md",
+  "sourceDirName": "02-Mafia-Fi/23-Staking",
+  "slug": "/Mafia-Fi/Staking/2.3.1Cross-Token Staking",
+  "permalink": "/docs/Mafia-Fi/Staking/2.3.1Cross-Token Staking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/23-Staking/2.3.1Cross-Token Staking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Future Vision",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/2.2.5-Future Vision"
+  },
+  "next": {
+    "title": "Cross-Token Staking Mechanism",
+    "permalink": "/docs/Mafia-Fi/Liquidity Mining/Cross-Token Staking"
+  }
+}

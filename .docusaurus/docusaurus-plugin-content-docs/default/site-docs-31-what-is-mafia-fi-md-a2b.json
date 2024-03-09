@@ -1,0 +1,24 @@
+{
+  "id": "What is Mafia-Fi",
+  "title": "Utility Use Cases at DeFiMatrix 🔧",
+  "description": "DeFiMatrix is not just a platform; it's a revolution in decentralized finance, offering a suite of tools and services designed to optimize your investment strategy and safeguard your assets. Below, we delve deeper into each utility use case, showcasing our commitment to innovation and user empowerment.",
+  "source": "@site/docs/31-What is Mafia-Fi.md",
+  "sourceDirName": ".",
+  "slug": "/What is Mafia-Fi",
+  "permalink": "/docs/What is Mafia-Fi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 31,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Rewards Boosters 🚀",
+    "permalink": "/docs/Community Rewards/Rewards Boosters"
+  },
+  "next": {
+    "title": "Governance and Utility 🏛️",
+    "permalink": "/docs/Governance and Utility"
+  }
+}

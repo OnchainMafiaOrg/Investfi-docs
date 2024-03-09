@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Collateralization",
+  "title": "Collateralization 💳",
+  "description": "In the dynamic world of DeFi, liquidity and flexibility are paramount. DeFiMatrix elevates these aspects by innovatively utilizing the $DFMX token for collateralization purposes. This transformative feature unlocks the potential of your digital assets, offering an exceptional level of liquidity and the freedom to leverage your holdings without the need to liquidate. Through AI-driven automation, DeFiMatrix streamlines the collateralization process, ensuring that users can effortlessly secure loans or earn interest on their $DFMX tokens, thus maximizing the utility and potential of their investments in a secure and efficient ecosystem.",
+  "source": "@site/docs/03-Utility Use Cases/36-Collateralization.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Collateralization",
+  "permalink": "/docs/Utility Use Cases/Collateralization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 36,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Risk Hedging ⚔️",
+    "permalink": "/docs/Utility Use Cases/Risk Hedging"
+  },
+  "next": {
+    "title": "Asset Tokenization 🌎",
+    "permalink": "/docs/Utility Use Cases/Asset Tokenization"
+  }
+}

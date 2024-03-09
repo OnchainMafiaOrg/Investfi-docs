@@ -1,0 +1,20 @@
+{
+  "id": "staking",
+  "title": "Governance: DAO Structure",
+  "description": "Utilize a decentralized autonomous organization (DAO) model for governance, where $MEMA token holders can propose and vote on platform decisions. Voting power is proportional to the amount of $MEMA held. The governance smart contract will facilitate proposal submissions, voting processes, and the execution of community decisions.",
+  "source": "@site/docs/staking.md",
+  "sourceDirName": ".",
+  "slug": "/staking",
+  "permalink": "/docs/staking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/staking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Exclusive Access: NFT-Based Membership",
+    "permalink": "/docs/security-practices"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "developer-guide",
+  "title": "Deflationary Mechanisms: Transaction Fee and Burn Function",
+  "description": "Integrate a transaction fee mechanism where a 1% fee is levied on each transaction. Half of this fee is redistributed to $MEMA holders, while a portion goes towards liquidity provision, and the remainder is used for token buyback and burn. This will be managed through smart contracts that automatically execute these operations with each transaction.",
+  "source": "@site/docs/developer-guide.md",
+  "sourceDirName": ".",
+  "slug": "/developer-guide",
+  "permalink": "/docs/developer-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

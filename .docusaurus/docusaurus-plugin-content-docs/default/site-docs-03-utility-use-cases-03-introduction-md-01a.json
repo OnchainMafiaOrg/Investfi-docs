@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Introduction",
+  "title": "Utility Use Cases at DeFiMatrix 🔧",
+  "description": "At DeFiMatrix, we're not just building a platform; we're crafting an ecosystem where every feature, every service, and every token serves a pivotal role in enhancing user experience and investment potential. Central to this vision is the utility of the $DFMX token, designed to be much more than a mere digital asset. It's the key to unlocking a comprehensive suite of services and benefits tailored to meet the diverse needs and ambitions of our global community.",
+  "source": "@site/docs/03-Utility Use Cases/03-Introduction.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Introduction",
+  "permalink": "/docs/Utility Use Cases/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "$DFMX Token 💎",
+    "permalink": "/docs/$DFMX Token"
+  },
+  "next": {
+    "title": "AI Optimization",
+    "permalink": "/docs/Utility Use Cases/AI Optimization"
+  }
+}

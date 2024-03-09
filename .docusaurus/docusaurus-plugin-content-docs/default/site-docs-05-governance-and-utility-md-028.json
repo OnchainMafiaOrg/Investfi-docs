@@ -1,0 +1,24 @@
+{
+  "id": "Governance and Utility",
+  "title": "Governance within DeFiMatrix 🏦",
+  "description": "At the heart of DeFiMatrix is a profound commitment to empowering our community through meaningful governance. Holding $DFMX tokens elevates you from a mere participant to an influential stakeholder in our ecosystem's future and success.",
+  "source": "@site/docs/05-Governance and Utility.md",
+  "sourceDirName": ".",
+  "slug": "/Governance and Utility",
+  "permalink": "/docs/Governance and Utility",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Roadmap - Charting the Future of DeFiMatrix 🛣️",
+    "permalink": "/docs/Roadmap"
+  },
+  "next": {
+    "title": "Growth Strategy 🌱",
+    "permalink": "/docs/Growth Strategy"
+  }
+}

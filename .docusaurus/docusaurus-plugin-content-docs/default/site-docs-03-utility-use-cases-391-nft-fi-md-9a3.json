@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/NFT-Fi",
+  "title": "NFT Finance 🎨",
+  "description": "DeFiMatrix is pioneering the intersection of NFTs and decentralized finance, creating a unique ecosystem where NFT-Fi becomes a reality. Our platform leverages the power of AI to seamlessly integrate NFTs with financial mechanisms, enabling users to generate innovative yields through NFT collateralization. This approach not only capitalizes on the intrinsic value of digital assets and art but also empowers users to leverage their NFT holdings for financial gain. By bridging the gap between the art, collectibles, and investment worlds, DeFiMatrix is unlocking a new frontier in finance, making it possible for users to explore unprecedented opportunities in NFT finance.",
+  "source": "@site/docs/03-Utility Use Cases/391-NFT-Fi.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/NFT-Fi",
+  "permalink": "/docs/Utility Use Cases/NFT-Fi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 391,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Options Trading 📊",
+    "permalink": "/docs/Utility Use Cases/Options Trading"
+  },
+  "next": {
+    "title": "Roadmap - Charting the Future of DeFiMatrix 🛣️",
+    "permalink": "/docs/Roadmap"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Collateralization",
+  "title": "Collateralization",
+  "description": "Collateralization 💳",
+  "source": "@site/docs/03-Utility Use Cases/93-Collateralization.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Collateralization",
+  "permalink": "/docs/Utility Use Cases/Collateralization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 93,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Risk Hedging",
+    "permalink": "/docs/Utility Use Cases/Risk Hedging"
+  },
+  "next": {
+    "title": "Roadmap - Charting the Future of DeFiMatrix 🛣️",
+    "permalink": "/docs/Roadmap"
+  }
+}

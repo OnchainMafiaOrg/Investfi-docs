@@ -1,0 +1,24 @@
+{
+  "id": "Governance",
+  "title": "Governance within DeFiMatrix 🏦",
+  "description": "At the heart of DeFiMatrix is a profound commitment to empowering our community through meaningful governance. Holding $DFMX tokens elevates you from a mere participant to an influential stakeholder in our ecosystem's future and success.",
+  "source": "@site/docs/05-Governance.md",
+  "sourceDirName": ".",
+  "slug": "/Governance",
+  "permalink": "/docs/Governance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Investmentfi Roadmap 🗺️✨",
+    "permalink": "/docs/Roadmap"
+  },
+  "next": {
+    "title": "Growth Strategy at DeFiMatrix 🌱",
+    "permalink": "/docs/Growth Strategy"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Utility Use Cases/Collateralization",
+  "title": "Collateralization",
+  "description": "Collateralization 💳",
+  "source": "@site/docs/Utility Use Cases/93-Collateralization.md",
+  "sourceDirName": "Utility Use Cases",
+  "slug": "/Utility Use Cases/Collateralization",
+  "permalink": "/docs/Utility Use Cases/Collateralization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 93,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Risk Hedging",
+    "permalink": "/docs/Utility Use Cases/Risk Hedging"
+  }
+}

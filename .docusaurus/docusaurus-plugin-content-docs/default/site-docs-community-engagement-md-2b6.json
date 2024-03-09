@@ -1,0 +1,24 @@
+{
+  "id": "community-engagement",
+  "title": "Community Incentives: Contribution Tracking System",
+  "description": "Implement a contribution tracking system that rewards users for engaging with the platform and contributing to the community. This could involve smart contracts that track user activities like content creation, meme generation, and participation in events, distributing $MEMA tokens as rewards.",
+  "source": "@site/docs/community-engagement.md",
+  "sourceDirName": ".",
+  "slug": "/community-engagement",
+  "permalink": "/docs/community-engagement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/community-engagement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Staking Rewards: Cross-Token Staking Mechanism",
+    "permalink": "/docs/borrowing"
+  },
+  "next": {
+    "title": "Deflationary Mechanisms: Transaction Fee and Burn Function",
+    "permalink": "/docs/developer-guide"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Utility Use Cases/Bond Strategies",
+  "title": "Utility Use Cases at DeFiMatrix 🔧",
+  "description": "DeFiMatrix is not just a platform; it's a revolution in decentralized finance, offering a suite of tools and services designed to optimize your investment strategy and safeguard your assets. Below, we delve deeper into each utility use case, showcasing our commitment to innovation and user empowerment.",
+  "source": "@site/docs/Utility Use Cases/Bond Strategies.md",
+  "sourceDirName": "Utility Use Cases",
+  "slug": "/Utility Use Cases/Bond Strategies",
+  "permalink": "/docs/Utility Use Cases/Bond Strategies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Utility Use Cases at DeFiMatrix 🔧",
+    "permalink": "/docs/Utility Use Cases/Asset Tokenization"
+  }
+}

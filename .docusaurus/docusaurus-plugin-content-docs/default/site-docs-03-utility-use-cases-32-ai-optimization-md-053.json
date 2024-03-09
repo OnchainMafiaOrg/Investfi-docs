@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/AI Optimization",
+  "title": "AI Optimization 🧠",
+  "description": "At DeFiMatrix, we're at the forefront of revolutionizing yield optimization in the decentralized finance (DeFi) landscape by harnessing the transformative power of advanced AI technology. Our innovative approach leverages AI to automate and refine yield strategies, adapting seamlessly to the dynamic conditions of various blockchains. This proactive strategy ensures that our users can navigate the most efficient and effective investment paths, maximizing their potential returns in real time.",
+  "source": "@site/docs/03-Utility Use Cases/32-AI Optimization.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/AI Optimization",
+  "permalink": "/docs/Utility Use Cases/AI Optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 32,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tokenomics 💎",
+    "permalink": "/docs/Tokenomics"
+  },
+  "next": {
+    "title": "Stablecoin Yields 💲",
+    "permalink": "/docs/Utility Use Cases/Stablecoin Yield"
+  }
+}

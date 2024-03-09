@@ -1,0 +1,24 @@
+{
+  "id": "21.1-$MEM Token",
+  "title": "$MEM Token",
+  "description": "Deflationary Mechanisms: Transaction Fee and Burn Function",
+  "source": "@site/docs/21.1-$MEM Token.md",
+  "sourceDirName": ".",
+  "slug": "/21.1-$MEM Token",
+  "permalink": "/docs/21.1-$MEM Token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/21.1-$MEM Token.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Staking Rewards: Cross-Token Staking Mechanism",
+    "permalink": "/docs/Borrowing/borrowing"
+  },
+  "next": {
+    "title": "Multi-Chain Accessibility",
+    "permalink": "/docs/Multi-Chain"
+  }
+}

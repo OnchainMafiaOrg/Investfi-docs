@@ -1,0 +1,24 @@
+{
+  "id": "$DFMX Token",
+  "title": "$DFMX Token 💎",
+  "description": "DeFiMatrix proudly unveils a comprehensive tokenomics model, meticulously crafted to foster the growth and enhance the value of our ecosystem. At the core of this model is our native token, DFMX, which plays a pivotal role in the functionality and advancement of our platform, providing a multitude of benefits and utilities to its holders.",
+  "source": "@site/docs/02-$DFMX Token.md",
+  "sourceDirName": ".",
+  "slug": "/$DFMX Token",
+  "permalink": "/docs/$DFMX Token",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction 🌟",
+    "permalink": "/docs/Introduction"
+  },
+  "next": {
+    "title": "Introduction - Use Cases 🌟",
+    "permalink": "/docs/Utility Use Cases/Introduction"
+  }
+}

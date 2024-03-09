@@ -1,0 +1,20 @@
+{
+  "id": "Community Rewards",
+  "title": "Community Incentives: Contribution Tracking System",
+  "description": "Implement a contribution tracking system that rewards users for engaging with the platform and contributing to the community. This could involve smart contracts that track user activities like content creation, meme generation, and participation in events, distributing $MEMA tokens as rewards.",
+  "source": "@site/docs/Community Rewards.md",
+  "sourceDirName": ".",
+  "slug": "/Community Rewards",
+  "permalink": "/docs/Community Rewards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Community Rewards.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Introduction"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/2.2-Mafia Swap/Liquidity and Speed",
+  "title": "Liquidity & Speed",
+  "description": "Liquidity and Speed at the Forefront",
+  "source": "@site/docs/02-Mafia-Fi/2.2-Mafia Swap/Liquidity and Speed.md",
+  "sourceDirName": "02-Mafia-Fi/2.2-Mafia Swap",
+  "slug": "/Mafia-Fi/2.2-Mafia Swap/Liquidity and Speed",
+  "permalink": "/docs/Mafia-Fi/2.2-Mafia Swap/Liquidity and Speed",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/2.2-Mafia Swap/Liquidity and Speed.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Mafia Swap",
+    "permalink": "/docs/Mafia-Fi/2.2-Mafia Swap/Future Vision"
+  },
+  "next": {
+    "title": "Security and Trust:",
+    "permalink": "/docs/Mafia-Fi/2.2-Mafia Swap/Security and Trust"
+  }
+}

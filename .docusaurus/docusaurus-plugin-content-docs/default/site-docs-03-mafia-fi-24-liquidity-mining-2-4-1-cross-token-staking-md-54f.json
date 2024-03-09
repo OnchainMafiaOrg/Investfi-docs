@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Liquidity Mining/2.4.1-Cross-Token Staking",
+  "title": "Automated Market Maker (AMM) Integration",
+  "description": "Integrate with AMM protocols to reward users who provide liquidity to $MEMA and ETH pools. A dedicated smart contract will distribute $MEMA rewards to liquidity providers based on the proportion of liquidity they've supplied to the pool.",
+  "source": "@site/docs/03-Mafia-Fi/24-Liquidity Mining/2.4.1-Cross-Token Staking.md",
+  "sourceDirName": "03-Mafia-Fi/24-Liquidity Mining",
+  "slug": "/Mafia-Fi/Liquidity Mining/2.4.1-Cross-Token Staking",
+  "permalink": "/docs/Mafia-Fi/Liquidity Mining/2.4.1-Cross-Token Staking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-Mafia-Fi/24-Liquidity Mining/2.4.1-Cross-Token Staking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "$MEM Token",
+    "permalink": "/docs/$MEM Token"
+  },
+  "next": {
+    "title": "What is Mafia-Fi",
+    "permalink": "/docs/Mafia-Fi/What is Mafia-Fi"
+  }
+}

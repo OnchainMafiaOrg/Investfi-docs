@@ -1,0 +1,81 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docsSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction 🌟",
+        "href": "/docs/Introduction",
+        "docId": "Introduction",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Tokenomics & Utility 💎",
+        "href": "/docs/Tokenomics",
+        "docId": "Tokenomics",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Investment Plans 💼📈",
+        "href": "/docs/Investment Plans",
+        "docId": "Investment Plans",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Investmentfi Roadmap 🗺️✨",
+        "href": "/docs/Roadmap",
+        "docId": "Roadmap",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Investifi's LBP on Fjord Foundry 🚀",
+        "href": "/docs/LBP on fjordfoundry",
+        "docId": "LBP on fjordfoundry",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Introduction": {
+      "id": "Introduction",
+      "title": "Introduction 🌟",
+      "description": "A Cutting-Edge, User-Friendly Investment Platform 🌐",
+      "sidebar": "docsSidebar"
+    },
+    "Investment Plans": {
+      "id": "Investment Plans",
+      "title": "Investment Plans 💼📈",
+      "description": "Investment Strategies for Every Type of Crypto Investor 🌟",
+      "sidebar": "docsSidebar"
+    },
+    "LBP on fjordfoundry": {
+      "id": "LBP on fjordfoundry",
+      "title": "Investifi's LBP on Fjord Foundry 🚀",
+      "description": "Introduction",
+      "sidebar": "docsSidebar"
+    },
+    "Roadmap": {
+      "id": "Roadmap",
+      "title": "Investmentfi Roadmap 🗺️✨",
+      "description": "Navigating Our Journey Towards Innovation 🚀",
+      "sidebar": "docsSidebar"
+    },
+    "Tokenomics": {
+      "id": "Tokenomics",
+      "title": "Tokenomics & Utility 💎",
+      "description": "The INVF token stands as the cornerstone of the Investmentfi ecosystem, meticulously designed to support the platform's growth, incentivize participation, and ensure a fair and sustainable economic model. With a total supply of 1,000,000,000 tokens, the distribution strategy of INVF tokens is crafted to align interests, encourage community engagement, and foster long-term development. Let's delve into the specifics of how these tokens are allocated and their intended purposes within the ecosystem.",
+      "sidebar": "docsSidebar"
+    }
+  }
+}

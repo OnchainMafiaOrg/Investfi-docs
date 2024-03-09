@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/AI Optimization",
+  "title": "AI Optimization",
+  "description": "AI Optimization 🧠",
+  "source": "@site/docs/03-Utility Use Cases/04-AI Optimization.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/AI Optimization",
+  "permalink": "/docs/Utility Use Cases/AI Optimization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "$DFMX Token 💎",
+    "permalink": "/docs/$DFMX Token"
+  },
+  "next": {
+    "title": "Stablecoin Yield",
+    "permalink": "/docs/Utility Use Cases/Stablecoin Yield"
+  }
+}

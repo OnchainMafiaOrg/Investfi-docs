@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/Future Vision",
+  "title": "Mafia Swap",
+  "description": "In the ever-evolving landscape of the MemeVerse, where creativity meets cryptocurrency, the introduction of \"Meme Mafia Swap\" stands as a groundbreaking milestone. This platform is not just another addition to the digital asset exchange world; it's a beacon of innovation, offering a seamless multi-chain token swap experience that aligns perfectly with the diverse and dynamic nature of meme-centric cryptocurrencies.",
+  "source": "@site/docs/02-Mafia-Fi/04-Mafia Swap/Future Vision.md",
+  "sourceDirName": "02-Mafia-Fi/04-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/Future Vision",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/Future Vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/04-Mafia Swap/Future Vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Introduction"
+  },
+  "next": {
+    "title": "Liquidity & Speed",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/Liquidity and Speed"
+  }
+}

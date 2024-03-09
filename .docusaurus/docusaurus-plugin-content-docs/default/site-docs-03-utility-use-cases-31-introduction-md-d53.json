@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Introduction",
+  "title": "Intvestment Plans",
+  "description": "Investment Strategies for Every Type of Crypto Investor 🌟",
+  "source": "@site/docs/03-Utility Use Cases/31-Introduction.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Introduction",
+  "permalink": "/docs/Utility Use Cases/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 31,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tokenomics 💎",
+    "permalink": "/docs/Tokenomics"
+  },
+  "next": {
+    "title": "AI Optimization 🧠",
+    "permalink": "/docs/Utility Use Cases/AI Optimization"
+  }
+}

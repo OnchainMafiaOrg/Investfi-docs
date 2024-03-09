@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Mafia Swap/Simplifying the Trading",
+  "title": "Simplifying the Trading",
+  "description": "Simplifying the Trading Experience",
+  "source": "@site/docs/02-Mafia-Fi/05-Mafia Swap/Simplifying the Trading.md",
+  "sourceDirName": "02-Mafia-Fi/05-Mafia Swap",
+  "slug": "/Mafia-Fi/Mafia Swap/Simplifying the Trading",
+  "permalink": "/docs/Mafia-Fi/Mafia Swap/Simplifying the Trading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/05-Mafia Swap/Simplifying the Trading.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Security and Trust:",
+    "permalink": "/docs/Mafia-Fi/Mafia Swap/Security and Trust"
+  },
+  "next": {
+    "title": "Governance: DAO Structure",
+    "permalink": "/docs/Mafia-Fi/Staking/staking"
+  }
+}

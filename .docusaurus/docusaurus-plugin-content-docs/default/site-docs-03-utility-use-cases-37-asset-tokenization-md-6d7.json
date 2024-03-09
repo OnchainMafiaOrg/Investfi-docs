@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Asset Tokenization",
+  "title": "Asset Tokenization 🌎",
+  "description": "DeFiMatrix is pioneering the frontier of decentralized finance by introducing the groundbreaking concept of asset tokenization. This innovative approach transforms real-world assets, such as real estate and commodities, into digital tokens on the blockchain, revolutionizing how investments are made and managed. By tokenizing tangible assets, DeFiMatrix not only broadens the horizon of DeFi investment opportunities but also seamlessly merges the realms of traditional finance with the dynamic world of DeFi. Our AI-driven platform automates the tokenization process, ensuring that users can effortlessly participate in this new era of investment, diversifying their portfolios while unlocking unprecedented avenues for yield generation.",
+  "source": "@site/docs/03-Utility Use Cases/37-Asset Tokenization.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Asset Tokenization",
+  "permalink": "/docs/Utility Use Cases/Asset Tokenization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 37,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Collateralization 💳",
+    "permalink": "/docs/Utility Use Cases/Collateralization"
+  },
+  "next": {
+    "title": "Bond Strategies 📈",
+    "permalink": "/docs/Utility Use Cases/Bond Strategies"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "growth-strategies",
+  "title": "Liquidity Mining: Automated Market Maker (AMM) Integration",
+  "description": "Integrate with AMM protocols to reward users who provide liquidity to $MEMA and ETH pools. A dedicated smart contract will distribute $MEMA rewards to liquidity providers based on the proportion of liquidity they've supplied to the pool.",
+  "source": "@site/docs/growth-strategies.md",
+  "sourceDirName": ".",
+  "slug": "/growth-strategies",
+  "permalink": "/docs/growth-strategies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/growth-strategies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Governance and Utility",
+    "permalink": "/docs/Governance and Utility"
+  },
+  "next": {
+    "title": "Exclusive Access: NFT-Based Membership",
+    "permalink": "/docs/security-practices"
+  }
+}

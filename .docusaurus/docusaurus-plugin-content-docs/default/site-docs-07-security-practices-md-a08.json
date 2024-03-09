@@ -1,0 +1,20 @@
+{
+  "id": "Security Practices",
+  "title": "Security Measures 🔐",
+  "description": "At DeFiMatrix, ensuring the utmost security and maintaining the integrity of our ecosystem are our top priorities. We've established a series of comprehensive security measures aimed at protecting our community and fostering a secure environment for all interactions within the platform.",
+  "source": "@site/docs/07-Security Practices.md",
+  "sourceDirName": ".",
+  "slug": "/Security Practices",
+  "permalink": "/docs/Security Practices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Investifi's LBP on Fjord Foundry 🚀",
+    "permalink": "/docs/LBP on fjordfoundry"
+  }
+}

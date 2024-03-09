@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/Community Incentives",
+  "title": "Community Incentives",
+  "description": "Implement a contribution tracking system that rewards users for engaging with the platform and contributing to the community. This could involve smart contracts that track user activities like content creation, meme generation, and participation in events, distributing $MEMA tokens as rewards.",
+  "source": "@site/docs/02-Mafia-Fi/Community Incentives.md",
+  "sourceDirName": "02-Mafia-Fi",
+  "slug": "/Mafia-Fi/Community Incentives",
+  "permalink": "/docs/Mafia-Fi/Community Incentives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/Community Incentives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Governance: DAO Structure",
+    "permalink": "/docs/Mafia-Fi/Staking/staking"
+  },
+  "next": {
+    "title": "Mafia-fi",
+    "permalink": "/docs/Mafia-Fi/Introduction"
+  }
+}

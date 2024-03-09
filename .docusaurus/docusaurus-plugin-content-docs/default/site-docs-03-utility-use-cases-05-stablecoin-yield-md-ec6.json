@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Stablecoin Yield",
+  "title": "Stablecoin Yield",
+  "description": "Stablecoin Yields 💲",
+  "source": "@site/docs/03-Utility Use Cases/05-Stablecoin Yield.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Stablecoin Yield",
+  "permalink": "/docs/Utility Use Cases/Stablecoin Yield",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "$DFMX Token 💎",
+    "permalink": "/docs/$DFMX Token"
+  },
+  "next": {
+    "title": "Asset Tokenization",
+    "permalink": "/docs/Utility Use Cases/Asset Tokenization"
+  }
+}

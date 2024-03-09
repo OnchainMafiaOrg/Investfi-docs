@@ -1,0 +1,24 @@
+{
+  "id": "Mafia-Fi/2.2-Mafia Swap/Security and Trust",
+  "title": "Security and Trust:",
+  "description": "Security and Trust: A Top Priority",
+  "source": "@site/docs/02-Mafia-Fi/2.2-Mafia Swap/Security and Trust.md",
+  "sourceDirName": "02-Mafia-Fi/2.2-Mafia Swap",
+  "slug": "/Mafia-Fi/2.2-Mafia Swap/Security and Trust",
+  "permalink": "/docs/Mafia-Fi/2.2-Mafia Swap/Security and Trust",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/2.2-Mafia Swap/Security and Trust.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Mafia Swap",
+    "permalink": "/docs/Mafia-Fi/2.2-Mafia Swap/Future Vision"
+  },
+  "next": {
+    "title": "Community Incentives",
+    "permalink": "/docs/Community Rewards/Community Incentives"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Mafia-Fi/Introduction",
+  "title": "What is Mafia-Fi",
+  "description": "In the ever-evolving landscape of the MemeVerse, where creativity meets cryptocurrency, the introduction of \"Meme Mafia Swap\" stands as a groundbreaking milestone. This platform is not just another addition to the digital asset exchange world; it's a beacon of innovation, offering a seamless multi-chain token swap experience that aligns perfectly with the diverse and dynamic nature of meme-centric cryptocurrencies.",
+  "source": "@site/docs/02-Mafia-Fi/03-Introduction.md",
+  "sourceDirName": "02-Mafia-Fi",
+  "slug": "/Mafia-Fi/Introduction",
+  "permalink": "/docs/Mafia-Fi/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-Mafia-Fi/03-Introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Introduction"
+  },
+  "next": {
+    "title": "Meme Mafia Swap",
+    "permalink": "/docs/Mafia-Fi/Meme Mafia Swap/Meme Mafia Swap"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Introduction",
+  "title": "Introduction 🌟",
+  "description": "A Cutting-Edge, User-Friendly Investment Platform 🌐",
+  "source": "@site/docs/01-Introduction.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction",
+  "permalink": "/docs/Introduction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Tokenomics & Utility 💎",
+    "permalink": "/docs/Tokenomics"
+  }
+}

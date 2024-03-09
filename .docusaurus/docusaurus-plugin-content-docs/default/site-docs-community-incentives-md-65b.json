@@ -1,0 +1,23 @@
+{
+  "id": "Community Incentives",
+  "title": "Community Incentives 🌟",
+  "description": "Rewarding Your Engagement and Creativity",
+  "source": "@site/docs/Community Incentives.md",
+  "sourceDirName": ".",
+  "slug": "/Community Incentives",
+  "permalink": "/docs/Community Incentives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Rewards Boosters 🚀",
+    "permalink": "/docs/Community Rewards/Rewards Boosters"
+  },
+  "next": {
+    "title": "Governance and Utility 🏛️",
+    "permalink": "/docs/Governance and Utility"
+  }
+}

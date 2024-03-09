@@ -1,0 +1,24 @@
+{
+  "id": "Multi-Chain Accessibility",
+  "title": "Multi-Chain Accessibility",
+  "description": "Meme Mafia Swap, leveraging technology inspired by platforms like Swing, promises an unparalleled level of flexibility and efficiency. By integrating with multiple blockchains, it ensures that users can effortlessly swap tokens across a wide array of networks. This eradicates the traditional barriers posed by single-chain limitations, fostering a truly inclusive trading environment. Whether it's Ethereum's ERC-20 tokens, Binance Smart Chain's BEP-20 assets, or any other digital asset from supported chains, Meme Mafia Swap is the bridge that connects them all.",
+  "source": "@site/docs/Multi-Chain Accessibility.md",
+  "sourceDirName": ".",
+  "slug": "/Multi-Chain Accessibility",
+  "permalink": "/docs/Multi-Chain Accessibility",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Multi-Chain Accessibility.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Staking Rewards: Cross-Token Staking Mechanism",
+    "permalink": "/docs/Borrowing/borrowing"
+  },
+  "next": {
+    "title": "Liquidity Mining: Automated Market Maker (AMM) Integration",
+    "permalink": "/docs/growth-strategies"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Yield Exploation",
+  "title": "Yield Exploration 🚀",
+  "description": "In the ever-evolving landscape of decentralized finance, DeFiMatrix takes a pioneering step forward with AI-driven yield exploration. Our unique approach transcends the boundaries of conventional DeFi protocols, embarking on a mission to discover and capitalize on stable yield opportunities across the vast expanse of the DeFi ecosystem. By leveraging AI, we ensure that our users can effortlessly diversify their portfolios, thus enhancing financial stability and resilience against market fluctuations. With DeFiMatrix, users need only specify their intent to diversify, and our sophisticated AI takes care of identifying and navigating the most promising, yet often overlooked, markets and protocols.",
+  "source": "@site/docs/03-Utility Use Cases/34-Yield Exploation.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Yield Exploation",
+  "permalink": "/docs/Utility Use Cases/Yield Exploation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 34,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Stablecoin Yields 💲",
+    "permalink": "/docs/Utility Use Cases/Stablecoin Yield"
+  },
+  "next": {
+    "title": "Risk Hedging ⚔️",
+    "permalink": "/docs/Utility Use Cases/Risk Hedging"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Utility Use Cases/Risk Hedging",
+  "title": "Risk Hedging ⚔️",
+  "description": "In the volatile realm of decentralized finance, DeFiMatrix stands as a bulwark against market uncertainties, offering AI-driven risk hedging strategies to safeguard your investments. By incorporating sophisticated financial instruments such as perpetual contracts and delta-neutral strategies, we provide a robust solution to mitigate investment risks. Our approach harnesses the power of AI to navigate the complexities of the crypto market, ensuring that your assets are not only geared towards profitability but are also shielded from undue exposure. With DeFiMatrix, users can simply express their desire for risk mitigation, and our AI system automatically implements the most effective hedging strategies, maintaining a secure and stable investment portfolio.",
+  "source": "@site/docs/03-Utility Use Cases/35-Risk Hedging.md",
+  "sourceDirName": "03-Utility Use Cases",
+  "slug": "/Utility Use Cases/Risk Hedging",
+  "permalink": "/docs/Utility Use Cases/Risk Hedging",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Yield Exploration 🚀",
+    "permalink": "/docs/Utility Use Cases/Yield Exploation"
+  },
+  "next": {
+    "title": "Collateralization 💳",
+    "permalink": "/docs/Utility Use Cases/Collateralization"
+  }
+}

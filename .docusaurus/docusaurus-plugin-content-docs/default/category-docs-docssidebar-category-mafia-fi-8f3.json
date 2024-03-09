@@ -1,0 +1,15 @@
+{
+  "title": "Mafia-Fi",
+  "slug": "/category/mafia-fi",
+  "permalink": "/docs/category/mafia-fi",
+  "navigation": {
+    "previous": {
+      "title": "Community Incentives",
+      "permalink": "/docs/Community Incentives"
+    },
+    "next": {
+      "title": "Meme Mafia Swap",
+      "permalink": "/docs/Meme Mafia Swap"
+    }
+  }
+}
